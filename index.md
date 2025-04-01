@@ -3,7 +3,7 @@ People form beliefs in a world where evidence is often indirect, ambiguous, or i
 
 ## output
 
-**Orticio, E.**, Meyer, M., & Kidd, C. (2024). Exposure to detectable inaccuracies makes children more diligent fact-checkers of novel claims. In Nature Human Behaviour. [[journal link](https://www.nature.com/articles/s41562-024-01992-8)] [[free link](https://rdcu.be/dWw28)] [[press release](https://news.berkeley.edu/2024/10/10/to-make-children-better-fact-checkers-expose-them-to-more-misinformation-with-oversight/)]
+**Orticio, E.**, Meyer, M., & Kidd, C. (2024). Exposure to detectable inaccuracies makes children more diligent fact-checkers of novel claims. In Nature Human Behaviour. [[journal link](https://www.nature.com/articles/s41562-024-01992-8)] [[free link](https://rdcu.be/dWw28)] [[press release](https://news.berkeley.edu/2024/10/10/to-make-children-better-fact-checkers-expose-them-to-more-misinformation-with-oversight/)] [[scientific american](https://www.scientificamerican.com/article/even-four-year-olds-instinctively-fact-check-for-misinformation/)]
 
 **Orticio, E.**, Martí, L., Bi, B., O'Shaughnessy, D., & Kidd, C. (in revision). Judgments and endorsements of political statements are influenced by speaker identity.
 
