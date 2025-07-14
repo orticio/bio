@@ -7,8 +7,6 @@ People form beliefs in a world where evidence is often indirect, ambiguous, or i
 
 **Orticio, E.**, Meyer, M., & Kidd, C. (2024). Exposure to detectable inaccuracies makes children more diligent fact-checkers of novel claims. In Nature Human Behaviour. [[pdf](https://orticio.com/assets/Orticio%20Meyer%20Kidd%20NHB%202024.pdf)] [[journal link](https://www.nature.com/articles/s41562-024-01992-8)] [[press release](https://news.berkeley.edu/2024/10/10/to-make-children-better-fact-checkers-expose-them-to-more-misinformation-with-oversight/)] [[scientific american](https://www.scientificamerican.com/article/even-four-year-olds-instinctively-fact-check-for-misinformation/)]
 
-**Orticio, E.**, Martí, L., Bi, B., O'Shaughnessy, D., & Kidd, C. (in revision). Judgments and endorsements of political statements are influenced by speaker identity.
-
 **Orticio, E.** & Kidd, C. (2024). Shifting your opinion makes you change your factual beliefs without evidence. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://escholarship.org/content/qt8w72r89d/qt8w72r89d.pdf)]
 
 **Orticio, E.**, Meyer, M., & Kidd, C. (2023). Children adapt their evidentiary standards to their informational environment. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/Orticio_Meyer_Kidd_2023_CogSci.pdf)]
