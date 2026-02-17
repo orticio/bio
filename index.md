@@ -1,7 +1,7 @@
 ## research
-People form beliefs in a world where evidence is often indirect, ambiguous, or inaccessible. I’m interested in how we learn to leverage our social and informational environments to learn efficiently and form accurate beliefs. I study the cognitive building blocks that we use to learn from socially mediated information, and how they’re adaptive (or maladaptive) in modern, digital contexts.
+I study how we learn and form beliefs effectively, even when evidence is incomplete, indirect, or unobservable. My research investigates how children and adults figure out what to believe, what to doubt, and what to seek more information about--particularly in digital contexts like social media.
 
-## output
+## papers
 
 **Orticio, E.**, Gao, S., & Kidd, C. (2025). Children learn the meaning of ambiguous evidence from third-party belief revision. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/childrenlearn_0510.pdf)]
 
