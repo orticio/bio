@@ -3,6 +3,8 @@ I study how we learn and form beliefs effectively, even when evidence is incompl
 
 ## papers
 
+*Shepherd, S., \***Orticio, E.**, Castañeda Barba, M., & Kidd, C. (2025). The brain rot effect: The case for adaptive attentional bandwidth. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/brainrot2026.pdf)]
+
 **Orticio, E.**, Gao, S., & Kidd, C. (2025). Children learn the meaning of ambiguous evidence from third-party belief revision. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/childrenlearn_0510.pdf)]
 
 **Orticio, E.**, Meyer, M., & Kidd, C. (2024). Exposure to detectable inaccuracies makes children more diligent fact-checkers of novel claims. In Nature Human Behaviour. [[pdf](https://orticio.com/assets/Orticio%20Meyer%20Kidd%20NHB%202024.pdf)] [[journal link](https://www.nature.com/articles/s41562-024-01992-8)] [[berkeley news](https://news.berkeley.edu/2024/10/10/to-make-children-better-fact-checkers-expose-them-to-more-misinformation-with-oversight/)] [[scientific american](https://www.scientificamerican.com/article/even-four-year-olds-instinctively-fact-check-for-misinformation/)]
