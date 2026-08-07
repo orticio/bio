@@ -3,7 +3,7 @@ I study how we learn and form beliefs effectively, even when evidence is incompl
 
 ## papers
 
-*Shepherd, S., \***Orticio, E.**, Castañeda Barba, M., & Kidd, C. (2025). The brain rot effect: The case for adaptive attentional bandwidth. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/brainrot2026.pdf)]
+*Shepherd, S., \***Orticio, E.**, Castañeda Barba, M., & Kidd, C. (2026). The brain rot effect: The case for adaptive attentional bandwidth. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/brainrot2026.pdf)]
 
 **Orticio, E.**, Gao, S., & Kidd, C. (2025). Children learn the meaning of ambiguous evidence from third-party belief revision. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/childrenlearn_0510.pdf)]
 
